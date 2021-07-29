@@ -1,0 +1,19 @@
+{
+  "name": "i-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generateIcons": "fantasticon icons-source -o icons-dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuygbg/IconGenerator.git"
+  },
+  "author": "Jesús Gómez-Braña González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuygbg/IconGenerator/issues"
+  },
+  "homepage": "https://github.com/chuygbg/IconGenerator#readme"
+}
